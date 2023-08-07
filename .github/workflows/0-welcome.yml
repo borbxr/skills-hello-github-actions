@@ -1,6 +1,7 @@
 #this is the name of the action
 
 name: Post welcome comment
+
 on:
   pull_request:
     types: [opened]
